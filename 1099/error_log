@@ -1,0 +1,64 @@
+[12-Aug-2015 16:52:23 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/header.php on line 131
+[12-Aug-2015 16:52:23 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 10
+[12-Aug-2015 19:08:35 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 86
+[12-Aug-2015 19:08:35 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 87
+[12-Aug-2015 19:08:35 UTC] PHP Warning:  Illegal string offset 'lead_id' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 88
+[12-Aug-2015 19:08:35 UTC] PHP Warning:  Illegal string offset 'ad_copy' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 89
+[12-Aug-2015 19:09:32 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 86
+[12-Aug-2015 19:09:32 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 87
+[12-Aug-2015 19:09:32 UTC] PHP Warning:  Illegal string offset 'lead_id' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 88
+[12-Aug-2015 19:09:32 UTC] PHP Warning:  Illegal string offset 'ad_copy' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 89
+[12-Aug-2015 19:10:56 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 73
+[12-Aug-2015 19:10:56 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 74
+[12-Aug-2015 19:12:10 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 73
+[12-Aug-2015 19:12:10 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 74
+[12-Aug-2015 19:13:26 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 73
+[12-Aug-2015 19:13:26 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 74
+[12-Aug-2015 19:16:37 UTC] PHP Warning:  Illegal string offset 'success' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 73
+[12-Aug-2015 19:16:37 UTC] PHP Warning:  Illegal string offset 'msg' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 74
+[12-Aug-2015 19:16:46 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 37
+[12-Aug-2015 19:16:46 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 119
+[12-Aug-2015 19:18:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 17
+[12-Aug-2015 19:18:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 17
+[12-Aug-2015 19:18:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 119
+[12-Aug-2015 19:19:28 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 37
+[12-Aug-2015 19:19:58 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 37
+[12-Aug-2015 19:23:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 121
+[12-Aug-2015 19:23:30 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 38
+[12-Aug-2015 19:24:39 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 38
+[12-Aug-2015 19:25:20 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 38
+[12-Aug-2015 19:25:48 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 38
+[12-Aug-2015 19:27:35 UTC] PHP Notice:  Undefined variable: lead_id in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 37
+[12-Aug-2015 19:29:07 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 39
+[12-Aug-2015 20:04:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 20:10:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 20:45:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 20:57:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 21:07:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 21:08:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[12-Aug-2015 21:33:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:33:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:33:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:34:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:34:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[12-Aug-2015 21:35:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[14-Aug-2015 10:12:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 125
+[14-Aug-2015 10:14:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/billing.php on line 80
+[14-Aug-2015 10:28:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 140
+[14-Aug-2015 10:30:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 156
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 136
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 137
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 138
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 139
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 143
+[14-Aug-2015 10:30:48 UTC] PHP Notice:  Array to string conversion in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 144
+[14-Aug-2015 17:00:42 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/header.php on line 131
+[14-Aug-2015 17:00:42 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 10
+[14-Aug-2015 20:30:33 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/header.php on line 131
+[14-Aug-2015 20:30:33 UTC] PHP Notice:  Undefined index: level in /home/thinglet/public_html/_clients/g3graphics/1099/index.php on line 10
